@@ -1,0 +1,16 @@
+# Asperges
+
+```@contents
+Pages = ["chapter1.md"]
+```
+
+| Image| Link / Description |
+| :--- | :--- |
+| ![Maal­tijd­sa­la­de met as­per­ges](https://static.ah.nl/static/recepten/img_090957_445x297_JPG.jpg) | **[Maal­tijd­sa­la­de met as­per­ges](https://www.ah.nl/allerhande/recept/R-R1188680/maaltijdsalade-met-asperges)** ``\\``Zolang ze er nog zijn, moeten we asperges eten. Vandaag gebruiken we ze voor deze zomerse salade. |
+| ![Hollandse asperges met linzen en gerookte zalm](https://www.francescakookt.nl/wp-content/uploads/2018/04/hollandse-asperges-met-linzen-en-gerookte-zalm-1.jpg) | **[Hollandse asperges met linzen en gerookte zalm](https://www.francescakookt.nl/hollandse-asperges-linzen-en-gerookte-zalm/)**``\\``Bonen zijn een heerlijk ingrediënt in tal van gerechten en je kunt er meer mee dan je wellicht denkt. Zo ‘vervang’ ik steeds vaker bijvoorbeeld aardappels of vlees door bonen en dat is naast goed voor je ook nog eens heel lekker én verrassend. Thuis kook ik onder andere heel graag met de linzen daar maakte ik voor jullie een heerlijke lentegerecht mee: Hollandse asperges met linzen, gerookte zalm en bieslook-boterjus. |
+| ![De 5 lekkerste recepten met witte asperges in de hoofdrol](https://www.culy.nl/wp-content/uploads/2015/06/Geroosterde-varkensbuik-met-witte-asperges-erwten-en-snijbiet-638x425.jpg) | **[De 5 lekkerste recepten met witte asperges in de hoofdrol](https://www.culy.nl/inspiratie/de-5-lekkerste-recepten-met-witte-asperges-in-de-hoofdrol/)**``\\``Ben jij net zo dol op witte asperges als wij? Join the club! Tijdens het seizoen proberen we er zo veel mogelijk van te genieten en wel met deze recepten met witte asperges in de hoofdrol. |
+| ![witte asperges met krieltjes en gerookte zalm](https://img.culy.nl/images/-FN8Lg6LBebmqlrK9hEJlSaA32E=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2015%2F05%2Funnamed-1.jpg) | **[Witte asperges met krieltjes en gerookte zalm](https://www.culy.nl/recepten/culy-homemade-witte-asperges-met-krieltjes-en-gerookte-zalm/)**``\\``Nu de witte asperges van eigen bodem weer te koop zijn, vinden we altijd wel een excuus om ze te eten. Lekker met hollandaisesaus en ham, maar ook deze combinatie met krieltjes, gesmolten boter en gerookte zalm is zálig.  |
+| ![Risotto met witte asperges](https://www.okokorecepten.nl/i/recepten/kookboeken/2014/recepten-venetie/risotto-witte-asperges-500.jpg) | **[Risotto met witte asperges](https://www.okokorecepten.nl/recept/rijst/risotto/risotto-witte-asperges)**``\\``Schil de asperges en verwijder de houtachtige uiteinden. Haal de aspergekopjes er af en snijd de rest in stukken van ongeveer 1½ cm. |
+| ![As­per­ge­sa­la­de](https://static.ah.nl/static/recepten/img_005835_445x297_JPG.jpg) | **[As­per­ge­sa­la­de](https://www.ah.nl/allerhande/recept/R-R545358/aspergesalade)**``\\``Superlekkere voorjaarssalade met een fris citroensausje. |
+| ![]() | **[]()**``\\`` |
+||
