@@ -26,8 +26,7 @@ makedocs(
         "19 - Vis-Zalm" => "chapter19.md",
         "20 - Vlees" => "chapter20.md",
         "21 - Voorgerechten" => "chapter21.md",
-        "22 - Wintergerechten" => "chapter22.md",
-        
+        "22 - Wintergerechten" => "chapter22.md",  
     ]
 )
 
