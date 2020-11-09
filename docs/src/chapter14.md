@@ -3,3 +3,54 @@
 ```@contents
 Pages = ["chapter14.md"]
 ```
+
+# Links
+
+| Image| Link / Description |
+| :--- | :--- |
+| ![Groene gazpacho met avocado, komkommer, appel & ricotta](https://img.culy.nl/images/nH62WNl_r5swiaZZSyjkhEa7rnc=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2020%2F06%2FIMG_9707-1-e1591885537448.jpg) | **[Groene gazpacho met avocado, komkommer, appel & ricotta](https://www.culy.nl/recepten/groene-gazpacho/)**``\\``Dit is zo’n recept waarvan je dankbaar bent dat het bestaat wanneer er weer eens een hittegolf uitbreekt. Serveer deze groene gazpacho met avocado, komkommer, appel, ricotta en croutons op zo’n moment ijskoud en je zit goed voor de rest van de avond. |
+| ![Gaz­pa­cho & knof­look­toast](https://static.ah.nl/static/recepten/img_RAM_PRD134277_445x297_JPG.jpg) | **[Gaz­pa­cho & knof­look­toast](https://www.ah.nl/allerhande/recept/R-R1193914/gazpacho-en-knoflooktoast)**``\\``Warme avond = koud soepje! Heb je goed bekeken met deze gazpacho. |
+| ![Preisoep met venkel, appel & walnoten](https://img.culy.nl/images/KmVeUs6guMAQOO5gBGy5U3UhAFQ=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2018%2F09%2F4_preisoep_met_venkel.jpg) | **[Preisoep met venkel, appel & walnoten](https://www.culy.nl/recepten/culy-homemade-preisoep-met-venkel-appel-walnoten/)**``\\``Omdat het herfst is en we dan automatisch héél veel zin krijgen in een verwarmende soep, besloten we een oud recept van stal te halen van The First Mess. En deze preisoep met venkel, appel en walnoten heeft niet alleen een hartverwarmend mooie kleur, maar ook een hartverwarmend effect op je binnenste. We zouden het bijna soulfood noemen. |
+| ![Knolselderijsoep met gebakken paddenstoelen](https://img.culy.nl/images/5fOmOHsCGylqK_-V_8jmSm3PGyY=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2019%2F09%2F3_knolselderijsoep_met_paddenstoelen.jpg) | **[Knolselderijsoep met gebakken paddenstoelen](https://www.culy.nl/recepten/knolselderijsoep-met-paddenstoelen/)**``\\``In de herfst wil je het liefst verdrinken in soep – of zijn wij de enigen die troost zoeken in een warme soepkom? In deze knolselderijsoep met gebakken paddenstoelen komen alle smaken (en geuren) van de herfst samen. |
+| ![Pas­ti­naaksoep met tijm & pan­cet­ta­k­ruim](https://static.ah.nl/static/recepten/img_RAM_PRD125296_445x297_JPG.jpg) | **[Pas­ti­naaksoep met tijm & pan­cet­ta­k­ruim](https://www.ah.nl/allerhande/recept/R-R1193210/pastinaaksoep-met-tijm-en-pancettakruim-advertorial)**``\\``Pastinaak een vergeten groente? No more! Hij steelt de show in deze heerlijke soep! |
+| ![Snelle paprikasoep met mascarpone en oregano](https://img.culy.nl/images/srbc_ygnV4M3YE_C0CZocaBTLEQ=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2019%2F12%2F4_snelle-paprikasoep-met-mascarpone.jpg) | **[Snelle paprikasoep met mascarpone en oregano](https://www.culy.nl/recepten/paprikasoep-met-mascarpone/)**``\\``Deze snelle paprikasoep met mascarpone en oregano is het perfecte gerecht voor van die dagen waarop je het eigenlijk niet kunt opbrengen om te koken. Binnen een mum van tijd klaar en niet te moeilijk. En hadden we al gezegd dat het een verrukkelijk soepje is? |
+| ![Ita­li­aan­se to­ma­ten­soep met mas­car­po­ne](https://static.ah.nl/static/recepten/img_049104_445x297_JPG.jpg) | **[Ita­li­aan­se to­ma­ten­soep met mas­car­po­ne](https://www.ah.nl/allerhande/recept/R-R312334/italiaanse-tomatensoep-met-mascarpone)**``\\``Zo romig heb je een tomatensoep nog nooit geproefd! |
+| ![Pastinaaksoep met kip](https://img.culy.nl/images/hSRzbjx9GI9FCp92lHhOD6z42bo=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2015%2F02%2FBroccoli-pastinaaksoep.jpg) | **[Pastinaaksoep met kip](https://www.culy.nl/recepten/koken-met-aanbiedingen-broccoli-pastinaaksoep-met-kip/)**``\\``Een lekker makkelijk recept voor elke dag: broccoli-pastinaaksoep met kip van Francesca Kookt. |
+| ![Aardappel-preisoep met mosterd & pesto](https://img.culy.nl/images/wA0tucS30vBCKm2ctIYUHfhFxWk=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F11%2Faardappel-preisoep-met-mosterd-pesto2.jpg) | **[Aardappel-preisoep met mosterd & pesto](https://www.culy.nl/recepten/aardappel-preisoep-met-mosterd-pesto/)**``\\``Deze simpele aardappel-preisoep kleed je aan met mosterd & pesto en zet je binnen no-time op tafel. Perfect wintervoer! |
+| ![Spi­cy wor­tel­soep](https://static.ah.nl/static/recepten/img_007014_445x297_JPG.jpg) | **[Spi­cy wor­tel­soep](https://www.ah.nl/allerhande/recept/R-R689128/spicy-wortelsoep)**``\\``Superslank soepje met oosterse smaakmakers. |
+| ![Gezonde erwtensoep met kip](https://img.culy.nl/images/hWIv-mGjRhiWGWAjLIZjqUpC_ZA=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2013%2F10%2FGezonde-erwtensoep-met-kip.jpeg) | **[Gezonde erwtensoep met kip](https://www.culy.nl/recepten/gezonde-erwtensoep-met-kip/)**``\\``Deze gezonde erwtensoep met kip werd bedacht en gekookt door Silvie van Silvie’s Kitchen, een nieuwe foodblog. Een snel en makkelijk recept voor doordeweeks! Je kunt ‘m natuurlijk ook vegetarisch maken door de kip weg te laten. |
+| ![Ge­gra­ti­neer­de ui­en­soep](https://static.ah.nl/static/recepten/img_124779_445x297_JPG.jpg) | **[Ge­gra­ti­neer­de ui­en­soep](https://www.ah.nl/allerhande/recept/R-R312842/gegratineerde-uiensoep)**``\\``Het geheim van een goede uiensoep? De uien lekker lang laten karamelliseren op laag vuur. |
+| ![Jambalayasoep](https://www.francescakookt.nl/wp-content/uploads/2017/09/jamabalayasoep_uitgelicht_1.jpg) | **[Jambalayasoep](https://www.francescakookt.nl/kruidige-maaltijdsoep-met-kip-garnalen-en-rijst/)**``\\``Hebben jullie tijdens de herfst ook zo vaak trek in soep? Ik ben zelf echt een soepfan en lust ieder seizoen graag soep, maar de herfst spant toch wel de kroon. |
+| ![Preisoep met gerookte makreel](https://www.francescakookt.nl/wp-content/uploads/2017/04/preisoep_met_gerookte_makreel_uitgelicht_1.jpg) | **[Preisoep met gerookte makreel](https://www.francescakookt.nl/preisoep-gerookte-makreel/)**``\\``Ik ben opgegroeid met een een soeplepel in mijn mond, vooral in mijn vaders familie zijn ze er dol op. Tussen de middag of als avondeten gaat er altijd wel een soepje in. Het is ook perfect om restjes mee te verwerken en je bewaart overgebleven soep makkelijk in de vriezer. |
+| ![Pittige zoete aardappelsoep met gamba’s](https://www.francescakookt.nl/wp-content/uploads/2017/01/pittige_zoete_aardappel_soep_met_gambas_uitgelicht_1.jpg) | **[Pittige zoete aardappelsoep met gamba’s](https://www.francescakookt.nl/pittige-zoete-aardappelsoep-met-gambas/)**``\\``Deze pittige zoete aardappelsoep met gamba’s is een heerlijke maaltijdsoep. De combinatie zoete aardappel, peper, kruidige gamba’s en frisse limoen is een hele fijne en maakt deze soep op en top verwennerij. |
+| ![Paddenstoelenminestrone met gnocchi](https://deliciousmagazine.nl/site/app/uploads/2016/11/paddenstoelenminestrone.png) | **[Paddenstoelenminestrone met gnocchi](https://deliciousmagazine.nl/site/2017/01/23/paddenstoelenminestrone-met-gnocchi/)**``\\``Met dit koude weer warm je helemaal op bij deze paddenstoelenminestrone. Koelverse gnocchi en gedroogde paddenstoelen spelen de hoofdrol in deze rijkgevulde soep. |
+| ![Romige broccolisoep met zalm](https://img.culy.nl/images/IbOQMOts1U31gnE79FXJGtx-TZU=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2016%2F05%2FRo%C2%ADmi%C2%ADge-broc%C2%ADcoli%C2%ADsoep-met-zalm.jpg) | **[Romige broccolisoep met zalm](https://www.culy.nl/recepten/culy-homemade-romige-broccolisoep-met-zalm/)**``\\``Broccoli en zalm is een gouden combinatie. Deze romige broccolisoep met zalm maken we al zeker tien jaar regelmatig; inmiddels kennen we het recept uit ons hoofd en delen we ‘m graag met jullie. |
+| ![Knolselderijsoep](https://www.francescakookt.nl/wp-content/uploads/Knolselderijsoep_1.jpg) | **[Knolselderijsoep](https://www.francescakookt.nl/knolselderijsoep/)**``\\``Als er iemand niet vegan is aangelegd, is het Bo. Van een goed stukje vlees of vis is ze niet vies en ze heeft nog nooit bij een vegan restaurant gegeten... |
+||
+
+## ♥ Pompoensoep
+
+##### Ingrediënten
+- 1000 gram pompoen, in stukken, zonder pitjes
+- 1000 ml kippenbouillon
+- 8 salieblaadjes
+- 1 gepelde rode ui
+- 1 geraspte wortel
+- 2 teentjes gehakte knoflook
+- 1 takje rozemarijn
+- 1 stengel bleekselderij
+- 1 rode peper
+- Extra vierge olijfolie
+- Zeezout
+- Zwarte peper, versgemalen
+
+##### Bereidingswijze
+1. Verhit een flinke scheut olijfolie in een pan
+2. Bak de salie in ongeveer 30 sec. iets donkerder en krokant
+3. Haal de salie uit de pan en bewaar ze op keukenpapier
+4. Doe de ui, bleekselderij, wortel, knoflook, rozemarijn, zout en peper in de pan en laat dit 10 minuten garen
+5. Voeg de bouillon en de pompoen toe en laat het geheel 30 min. doorkoken
+6. Haal de pan van het vuur af als de pompoen gaar is
+7. Pureer de ingrediënten tot een gladde massa met een staafmixer of blender
+8. Leg een blaadje salie ter decoratie op de soep en sprenkel er olijfolie overheen om het af te maken
+
