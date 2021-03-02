@@ -138,3 +138,39 @@ Source: La Dolce Vita blz. 18, auteur: Tessa Kiros
 ##### Bereiden
 Alles in pannetje behalve de pindakaas,op laag vuur goed doorroeien.
 Beetje bij beetje pindakaas toevoegen.
+
+
+## Rode Pesto Maken
+
+Lekkere rode pesto maken leer je op deze pagina. Rode pestosaus is een heerlijke smaakmaker in tal van gerechten, maar is ook hartstikke lekker op een toastje. Dit rode pesto gerecht is dus ook prima te te serveren op een feestje. De oorsprong van rode pesto, is in tegenstelling tot groene pesto lastig te achterhalen.
+
+Rode pesto maken kan heel eenvoudig in een vijzel of een keukenmachine. Italianen zweren erbij dat je voor dit gerecht een vijzel gebruikt, omdat dit het snelste gaat en zorgt ervoor dat de pesto rosso hoog op smaak is. Rode pesto maken met een vijzel vergt wel behoorlijk wat energie. Er moet behoorlijk wat kracht gezet worden in de vijzel om de zongedroogde tomaten en amandelen fijn te krijgen.  Heb je nog geen vijzel? Dan adviseer ik je om een grote vijzel (minimaal 15 cm doorsnee) van graniet aan te schaffen. Dan heb je flink wat ruimte om de basilicum, peterselie, amandelen en Parmezaanse kaas te pletten en rond te draaien. Mooie granieten vijzels van goede prijs kwaliteit verhouding vind je hier. Wil je een voorraadje rode pesto maken, dan kun je hier uiteraard ook een keukenmachine voor gebruiken. Je kunt je dan ook gewoon houden aan de onderstaande instructies. Het onderstaande recept is gebaseerd op twee porties en voorziet  je van circa 100 gram verse rode pesto. Wil je graag meer of minder rode pesto maken, pas dan even het aantal porties aan onder de ingrediënten. Meer informatie over hoe je de rode pestosaus het beste kan bewaren, is terug te vinden onder het recept op deze pagina.
+
+##### Ingredienten (twee porties)
+- 0,5 teentje knoflook
+- 0,5 stuk chilipeper zonder zaadjes
+- 1 snufje grof zeezout
+- 5 gram blad peterselie één flinke tak is ongeveer 5 gram
+- 10 gram basilicum half plantje staat gelijk aan circa 10 gram
+- 20 gram zongedroogde tomaten goed uit laten lekker
+- 0,5 stuk gegrilde rode paprika
+- 15 gram Parmezaanse kaas
+- 15 gram amandelen blank of geroosterd
+- 0,5 el balsamico azijn
+- 25 ml olijfolie zacht van smaak
+
+##### Voorbereiden
+
+1. Begin het raspen van de kaas, het liefst zo fijn mogelijk.
+2. Laat de zongedroogde tomaten en gegrilde rode paprika goed uitlekken en snij deze alvast in kleine stukjes en leg ze even apart in een schaaltje.
+3. Veeg de basilicum blaadjes en peterselie schoon met keukenrol. Spoel de basilicum en peterselie in ieder geval NIET af met water, dit gaat ten koste van de smaak en de houdbaarheid.
+
+##### Rode pesto maken
+
+1. Doe de knoflook en chilipeper in de vijzel en maal met een paar korreltjes zeezout totdat je een fijne pasta hebt.
+2. Voeg de basilicum en peterselie toe met wat grof zeezout, hierdoor behoud het kleur en maalt het fijner. Blijf draaien totdat je een groene jus ziet. 
+3. Voeg de gesneden zongedroogde tomaten en gegrilde paprika toe en plet deze goed fijn, blijf flink heen en weer draaien totdat de tomaten en de paprika helemaal fijn zijn. 
+4. Voeg de amandelen toe en zorg ervoor dat ze goed fijn worden door ze stevig te pletten in de vijzel. Blijf vervolgens heen en weer draaien totdat er een smeuïge massa ontstaat. 
+5. Vervolgens de geraspte Parmezaanse kaas beetje bij beetje toevoegen en  blijven ronddraaien in de tussentijd. Ga door totdat er een egale puree ontstaat.
+6. Voeg de Balsamico azijn toe en draai deze er goed doorheen.
+7. Voeg mondjesmaat de olijfolie toe terwijl je draait, blijf olijfolie toevoegen totdat je de gewenste dikte hebt voor je rode pestosaus. Als het goed is heb je nu een heerlijke verse rode pesto. 
