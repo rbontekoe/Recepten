@@ -173,4 +173,36 @@ Rode pesto maken kan heel eenvoudig in een vijzel of een keukenmachine. Italia
 4. Voeg de amandelen toe en zorg ervoor dat ze goed fijn worden door ze stevig te pletten in de vijzel. Blijf vervolgens heen en weer draaien totdat er een smeuïge massa ontstaat. 
 5. Vervolgens de geraspte Parmezaanse kaas beetje bij beetje toevoegen en  blijven ronddraaien in de tussentijd. Ga door totdat er een egale puree ontstaat.
 6. Voeg de Balsamico azijn toe en draai deze er goed doorheen.
-7. Voeg mondjesmaat de olijfolie toe terwijl je draait, blijf olijfolie toevoegen totdat je de gewenste dikte hebt voor je rode pestosaus. Als het goed is heb je nu een heerlijke verse rode pesto. 
+7. Voeg mondjesmaat de olijfolie toe terwijl je draait, blijf olijfolie toevoegen totdat je de gewenste dikte hebt voor je rode pestosaus. Als het goed is heb je nu een heerlijke verse rode pesto.
+
+## Pesto Arrabiata
+
+Van origine is pesto arrabbiata een ” saus voor over de pasta” .  Deze pestosaus laat zich in het Italiaans vertalen als “pesto rosso all’arrabbiata”, een hele mond vol dus.  Pesto arrabbiata kenmerkt zich door een pikante smaak. Deze pittige pestosaus heeft daarom wel wat weg van een tapenade. In principe kan pesto arrabbiata op verschillende manieren geserveerd worden. Naast dat het heerlijk smaakt door je pasta, is hij ook zeer geschikt voor bij de borrel. Zelf serveer ik pesto arrabbiata regelmatig in combinatie met nachos . Hierdoor heb je een heerlijke pittige saus voor bij de nachos en kun je de overgebleven pecorino kaas mooi over de nachos strooien en vervolgens laten smelten in de oven.
+
+##### Ingredienten (twee porties)
+- 0.5 teentje  knoflook
+-  1  rode peper (voor de liefhebber incl pitjes)
+-  20 gram  zongedroogde tomaten (in olie, uitgelekt)
+-  20 gram  gegrilde rode paprika (in olie, uitgelekt)
+-  2  el  groene olijven
+-  2 el  pijnboompitten geroosterd
+-  15 gram  pecorino kaas
+-  10 gram  Parmezaanse kaas
+-  1 el  balsamico azijn
+-  4 el  olijfolie extra vierge
+
+##### Voorbereiding
+
+1. Begin het raspen van de kazen, het liefst zo fijn mogelijk. 
+2.  Laat de zongedroogde tomaten, gegrilde rode paprika en groene olijven goed uitlekken en snij deze alvast in kleine stukjes en leg ze even apart in een schaaltje.
+3.  Rooster de pijnboompitten in een koekenpan totdat ze geuren. Let hierbij op dat je de pijnboompitten goed in beweging houdt, anders branden ze aan. Laat de pijnboompitten vervolgens afkoelen op een stuk keukenrol.
+
+##### Pesto arrabbiata maken
+
+1. Doe de knoflook en chilipeper in de vijzel en maal met een paar korreltjes zeezout totdat je een fijne pasta hebt.
+2.  Voeg de gesneden zongedroogde tomaten toe en plet deze goed fijn, blijf flink heen en weer draaien totdat de tomatenhelemaal fijn zijn. Gebruik een paar korrels zeezout, dan zijn de tomaten makkelijker fijn te malen.
+3.  Voeg de gesneden gegrilde paprika en olijven toe, plet en draai deze goed fijn.
+4.  Voeg de pijnboompitten toe en blijf vervolgens heen en weer draaien totdat er een smeuïge massa ontstaat. 
+5.  Vervolgens de geraspte pecorino en Parmezaanse kaas beetje bij beetje toevoegen en blijf ronddraaien in de tussentijd. Ga door totdat er een egale puree ontstaat.
+6.  Voeg de Balsamico azijn toe en draai deze er goed doorheen.
+7.  Tot slot, voeg mondjesmaat de olijfolie toe terwijl je draait, blijf olijfolie toevoegen totdat je de gewenste dikte hebt voor je pesto arrabbiata. Als het goed is heb je nu een heerlijke pittige pestosaus . 
