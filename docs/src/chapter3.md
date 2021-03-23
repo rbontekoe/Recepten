@@ -1,7 +1,7 @@
 # Dessert
 
 ```@contents
-Pages = ["chapter2.md"]
+Pages = ["chapter3.md"]
 ```
 ## Links
 
