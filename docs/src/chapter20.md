@@ -8,6 +8,7 @@ Pages = ["chapter20.md"]
 
 | Image| Link / Description |
 | :--- | :--- |
+| ![Varkensfiletlapjes met mosterdjus en snijboontjes](https://static.ah.nl/static/recepten/img_087473_1600x_JPG.jpg) | **[Varkensfiletlapjes met mosterdjus en snijboontjes](https://www.ah.nl/allerhande/recept/R-R1186280/varkensfiletlapjes-met-mosterdjus-en-snijboontjes)**``\\``Aardappelen-groente-vlees saai? Zeker niet, hier is het bewijs! |
 | ![Boeuf bourguignon](https://www.francescakookt.nl/wp-content/uploads/2017/10/boeuf-bourguignon-1.jpg) | **[Boeuf bourguignon](https://www.francescakookt.nl/boeuf-bourguignon/)**``\\``Er zijn gerechten die je het liefst iedere week wilt eten, omdat ze zo lekker zijn, maar in de praktijk misschien maar één, en als je mazzel hebt... |
 | ![Ri­sot­to al­la Mi­la­ne­se met run­der­su­ka­de](https://static.ah.nl/static/recepten/img_RAM_PRD139055_445x297_JPG.jpg) | **[Ri­sot­to al­la Mi­la­ne­se met run­der­su­ka­de](https://www.ah.nl/allerhande/recept/R-R1194443/risotto-alla-milanese-met-rundersukade)**``\\``Saffraan geeft een mooie gouden kleur aan de risotto. |
 | ![Lamsrack met zwarte knoflookmarinade](https://zwarteknoflook.nl/wp-content/uploads/2019/07/Lamsrack-met-zwarte-knoflookmarinade-14-e1564390663744.jpg) | **[Lamsrack met zwarte knoflookmarinade](https://zwarteknoflook.nl/recept/lamsrack-met-zwarte-knoflookmarinade/)**``\\``In de voorjaars Foodybox van Kroon op het Werk zaten o.a. heerlijke lamsracks en zwarte knoflook. Waarom deze twee niet combineren? De zwarte gefermenteerde knoflook is niet zo heftig als... |
