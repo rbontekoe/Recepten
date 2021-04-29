@@ -4,8 +4,6 @@
 Pages = ["chapter20.md"]
 ```
 
-Test Jenkins
-
 ## Links
 
 | Image| Link / Description |
