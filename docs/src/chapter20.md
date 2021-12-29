@@ -5,7 +5,7 @@ Pages = ["chapter20.md"]
 ```
 
 ## Links
-
+ 
 | Image| Link / Description |
 | :--- | :--- |
 | ![Eendenborstfilet met sinaasappelsaus en witlof](https://www.francescakookt.nl/wp-content/uploads/2019/11/oproep-ga-samen-met-mij-proefkoken-voor-kerst-6.jpg) | **[Eendenborstfilet met sinaasappelsaus en witlof](https://www.francescakookt.nl/eendenborstfilet-met-sinaasappelsaus-en-witlof/)**``\\``Eendenborst vind ik een prachtig ingrediënt om te gebruiken voor het kerstdiner. Als je eenmaal weet hoe je dit mooie stuk gevogelte moet bereiden kan het bijna niet misgaan. Maar dan moet je het wel weten ;-). De eerste keer dat ik deze eendenborstfilet met sinaasappelsaus bereidde wist ik namelijk helemaal niet dat je de natuurlijke vetlaag juist moet gebruiken om in te bakken (en eerst kruislings in snijdt), en ik had ook eigenlijk geen idee hoe lang het in de pan moest. En geloof me, die eerste keer was het daardoor ook niet te eten na het bakken.|
