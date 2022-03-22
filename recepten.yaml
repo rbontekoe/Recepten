@@ -32,13 +32,15 @@ spec:
     spec:
       containers:
       - name: recepten-pod
-        image: localhost:32000/i_recepten:v1.3.25
+        image: localhost:32000/i_recepten:v1.3.26
         ports:
         - containerPort: 8000
           name: test-sshd-http
 ---
 apiVersion: v1
 kind: Service
+- Tessa Kiros
+
 metadata:
   name: recepten-service
   namespace: recepten
