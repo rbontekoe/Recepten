@@ -39,8 +39,6 @@ spec:
 ---
 apiVersion: v1
 kind: Service
-- Tessa Kiros
-
 metadata:
   name: recepten-service
   namespace: recepten
