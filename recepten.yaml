@@ -31,8 +31,8 @@ spec:
         app: test-sshd
     spec:
       containers:
-      - name: recepten-pod
-        image: localhost:32000/i_recepten:v1.3.45
+      - name: recepten-podv1.3.46
+        image: localhost:32000/i_recepten:v1.3.46
         ports:
         - containerPort: 8000
           name: test-sshd-http
