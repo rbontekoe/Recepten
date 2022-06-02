@@ -23,6 +23,17 @@ Pages = ["chapter13.md"]
 | ![10 variaties op pesto recepten](https://www.francescakookt.nl/wp-content/uploads/Variaties-op-pesto-recepten_uitgelicht.jpeg) | **[10 variaties op pesto recepten](https://www.francescakookt.nl/10-variaties-op-pesto-recepten/)**``\\``“Pesto! Ik ben gek op pesto, vooral groene zelfgemaakte pesto. Maar ik zou wel wat meer variatie in mijn pesto recepten willen hebben.” |
 ||
 
+## Mosterdsaus
+
+##### Ingrediënten
+
+- 2 eetlepels mosterd
+- 100 ml kookroom
+
+##### Bereiding
+
+Verwarm de kookroom en de mosterd in een koekepan.
+
 ## Maak zelf een heerlijke antiboise - Brasserie Paardenburg
 
 We delen graag onze favoriete recepten met jou. Antiboise is er zo een. Het is een simpel te maken dressing, die je vis, vlees- of groentegerechten omtovert tot een bijzondere maaltijd. De saus dankt haar naam aan de Zuid-Franse stad Antibes. Hieronder het recept.
