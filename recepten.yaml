@@ -2,6 +2,7 @@ apiVersion: v1
 kind: Namespace
 metadata:
   labels:
+    app: recepten
     istio-injection: enabled
   name: recepten
 ---
@@ -32,7 +33,7 @@ spec:
     spec:
       containers:
       - name: recepten-pod
-        image: localhost:32000/i_recepten:v1.3.59
+        image: localhost:32000/i_recepten:v1.3.58
         ports:
         - containerPort: 8000
           name: test-sshd-http
