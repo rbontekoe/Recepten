@@ -10,6 +10,6 @@ Recently I switched to Ubuntu 22.04. Unfortunately, I couldn't get Istio to work
 
 docker-compose.yml now acts as the source of truth.
 
-I worked with Kubernetes (microk8s), julialang and Ubuntu 20.04.
+(I worked with Kubernetes (microk8s), julialang and Ubuntu 20.04.)
 
-I used this repo to get experience with ArgoCD. The image file is created with Jenkins using Dockerfile.
+(I used this repo to get experience with ArgoCD. The image file is created with Jenkins using Dockerfile.)
