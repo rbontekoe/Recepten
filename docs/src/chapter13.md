@@ -23,6 +23,18 @@ Pages = ["chapter13.md"]
 | ![10 variaties op pesto recepten](https://www.francescakookt.nl/wp-content/uploads/Variaties-op-pesto-recepten_uitgelicht.jpeg) | **[10 variaties op pesto recepten](https://www.francescakookt.nl/10-variaties-op-pesto-recepten/)**``\\``“Pesto! Ik ben gek op pesto, vooral groene zelfgemaakte pesto. Maar ik zou wel wat meer variatie in mijn pesto recepten willen hebben.” |
 ||
 
+
+## Avocado-caesarsaus
+
+##### Nodig
+- avocado rijp
+- 3 el citroenmayonaise
+- ansjovisfilets in olijfolie, blikje
+- 2-3 el citroensap
+
+##### Bereiden
+Halveer intussen de avocado, wip de pit eruit en verwijder de schil. Pureer de avocado met de mayonaise, ansjovisfilets en het citroensap tot een lobbige saus. Verdun evt. met 1-2 el water. Voeg peper naar smaak toe.
+
 ## Mosterdsaus
 
 ##### Ingrediënten

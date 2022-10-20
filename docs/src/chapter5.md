@@ -27,6 +27,7 @@ Pages = ["chapter5.md"]
 | ![Ma­kreel in wit­te-wijn­ma­ri­na­de](https://static.ah.nl/static/recepten/img_011238_445x297_JPG.jpg) | **[Ma­kreel in wit­te-wijn­ma­ri­na­de](https://www.ah.nl/allerhande/recept/R-R668968/makreel-in-witte-wijnmarinade)**``\\``trooi de korianderzaadjes op een plank en kneus ze met een houten lepel of breed mes. Snijd de citroen... |
 ||
 
+
 ## Gevulde sardines uit de oven
 
 Mijn beste Italiaanse recpten | Antonio Garluccio
