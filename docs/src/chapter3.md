@@ -16,6 +16,22 @@ Pages = ["chapter3.md"]
 | ![Meringues met salted caramel](https://img.culy.nl/images/hisX9ou0CswK8_xzqL6kkc5vuJ4=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F10%2F6_meringues_met_salted_caramel.jpg) | **[Meringues met salted caramel](https://www.culy.nl/recepten/culy-homemade-meringues-met-salted-caramel/)**``\\``Toen we laatst ineens vijf eiwitten over hadden (met de dooiers hadden we gepekelde eidooiers gemaakt voor bij de pasta), besloten we daar deze meringues met salted caramel mee te bakken. Immers: weggooien is zonde. Ze bleken zó lekker, dat we niet kunnen wachten om ze nog een keer te maken. |
 ||
 
+## Tiramsu all panatonne in coppa
+
+Ingrediënten voor 6 - 200 g mascarpone - 70 g suiker - 3 eieren - een paar plakjes panatone (ook oudbakken) - marsala wijn doice
+
+Ik heb voor Wil en mij 2/3 van de hoeveelheden gebruikt: 130 g mascarpone - 50 g suiker - 2 eieren - een paar plakjes panatone (ook oudbakken) - marsala wijn doice.
+
+1. Giet 1 espresso (geen lungo!) in elk glas en voeg naar smaak een eetlepel of meer marselawijn toe.
+2. Zet de koffie opzij en laat hem afkoelen terwijl je de mascarponeroom bereidt.
+3. Pel de drie eieren en scheid de dooiers van de eiwitten in twee kommen. Voeg de suiker toe aan de kom met de eidooiers en klop ze met de elektrische garde tot de suiker is opgelost en het mengsel gezwollen is.
+4. Voeg de mascarpone toe aan de eidooiercrème en klop opnieuw tot een gladde en romige massa.
+5. Was de gardes voorzichtig, droog ze en gebruik ze om de eiwitten stijf te kloppen, en meng ze vervolgens door het mascarponemengsel.
+6. Roer voorzichtig in een brede beweging van onder naar boven om het mengsel niet uit elkaar te halen.
+7. Snij of hak de panettone in plakjes. Verdeel de helft van de doice over de bodem van zes kopjes en bestrooi met de koffie en de room.
+8. Bestrooi de kopjes met ongezoete cacaopoeder uit een zeef en zet ze 2 uur in de koelkast. Serveer.
+
+
 ## Hazelnoten-amaretti met mokka
 
 - koekjes (± 20 stuks)
