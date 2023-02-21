@@ -16,7 +16,7 @@ Pages = ["chapter3.md"]
 | ![Meringues met salted caramel](https://img.culy.nl/images/hisX9ou0CswK8_xzqL6kkc5vuJ4=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F10%2F6_meringues_met_salted_caramel.jpg) | **[Meringues met salted caramel](https://www.culy.nl/recepten/culy-homemade-meringues-met-salted-caramel/)**``\\``Toen we laatst ineens vijf eiwitten over hadden (met de dooiers hadden we gepekelde eidooiers gemaakt voor bij de pasta), besloten we daar deze meringues met salted caramel mee te bakken. Immers: weggooien is zonde. Ze bleken zó lekker, dat we niet kunnen wachten om ze nog een keer te maken. |
 ||
 
-## Tiramsu all panatonne in coppa
+## Tiramisù all panatonne in coppa
 
 Ingrediënten voor 6 - 200 g mascarpone - 70 g suiker - 3 eieren - een paar plakjes panatone (ook oudbakken) - marsala wijn doice
 
