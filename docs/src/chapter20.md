@@ -60,7 +60,7 @@ Pages = ["chapter20.md"]
 | ![Ita­li­aans draad­jes­vlees](https://static.ah.nl/static/recepten/img_049998_445x297_JPG.jpg) | **[Ita­li­aans draad­jes­vlees](https://www.ah.nl/allerhande/recept/R-R769486/italiaans-draadjesvlees)**``\\``Door het vlees eerst te marineren in wijn, wordt het nóg malser. |
 ||
 
-### Gehaktballen
+## Gehaktballen
 
 Een recept van Wil Faber.
 
