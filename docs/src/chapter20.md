@@ -59,3 +59,32 @@ Pages = ["chapter20.md"]
 | ![Mexicaanse gehaktschotel met guacamole en crème fraîche](https://img.culy.nl/images/Z4c3lqHX1FJ9lrvAdW1QVpecuC4=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2015%2F06%2FKMA32.jpg) | **[Mexicaanse gehaktschotel met guacamole en crème fraîche](https://www.culy.nl/recepten/koken-met-aanbiedingen-mexicaanse-gehaktschotel-met-guacamole-en-creme-fraiche/)**``\\``Dit recept is simpel en perfect voor een doordeweekse dag: Mexicaanse gehaktschotel met guacamole en crème fraîche. |
 | ![Ita­li­aans draad­jes­vlees](https://static.ah.nl/static/recepten/img_049998_445x297_JPG.jpg) | **[Ita­li­aans draad­jes­vlees](https://www.ah.nl/allerhande/recept/R-R769486/italiaans-draadjesvlees)**``\\``Door het vlees eerst te marineren in wijn, wordt het nóg malser. |
 ||
+
+### Gehaktballen
+
+##### Ingrediënten:
+
+- 250 gram gehakt
+- 1 ei
+- ½ tl koriander
+- ½ tl komijnzaad
+- ½ tl piment
+- ½ tl kardemom
+- 2 el tomatenketchup
+- 1 tl srirachasaus
+- 2 el ketjap manis
+- 5 el paneermeel
+- 2 el olie
+- 250 ml water
+- ½ blokje runderbouillon
+
+##### Bereiding:
+
+1. Neem een kom en meng hierin het gehakt, ei, kruiden, tomatenketchup, srirachasaus en ketjap. Roer goed door elkaar.
+2. Voeg 5 volle eetlepels paneermeel toe aan het mengsel en meng alles tot een stevige massa. Vorm hieruit vier gehaktballen.
+3. Strooi het meel op een bord en rol de gehaktballen erdoorheen zodat ze gelijkmatig bedekt zijn.
+4. Verwarm de olie in een pan en bak de gehaktballen tot ze een stevige donkerbruine korst hebben gekregen.
+5. Voeg het water en het bouillonblokje toe aan de pan en zet het vuur laag.
+6. Laat de gehaktballen gedurende 25 minuten sudderen in de pan.
+
+Geniet van je zelfgemaakte gehaktballen!
