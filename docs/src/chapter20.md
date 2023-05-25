@@ -62,7 +62,7 @@ Pages = ["chapter20.md"]
 
 ## Gehaktballen
 
-Een recept van Wil Faber.
+Een recept voor 2 personen van Wil Faber.
 
 ##### Ingrediënten:
 
