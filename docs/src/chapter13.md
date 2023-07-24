@@ -25,7 +25,7 @@ Pages = ["chapter13.md"]
 
 
 ## Zo houd je je basilicumplantje wél lang in leven
-[Zo houd je je basilicumplantje wél lang in leven](https://www.foodiesmagazine.nl/inspiratie/keukenhacks/zou-houd-je-je-basilicumplantje-lang-in-leven/?utm_medium=Social&utm_source=Facebook#Echobox=1684132779)
+Zie artikel Foodies: [Zo houd je je basilicumplantje wél lang in leven](https://www.foodiesmagazine.nl/inspiratie/keukenhacks/zou-houd-je-je-basilicumplantje-lang-in-leven/?utm_medium=Social&utm_source=Facebook#Echobox=1684132779)
 
 ## Avocado-caesarsaus
 
