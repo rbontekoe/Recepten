@@ -2,36 +2,19 @@ version: '3.1'
 
 services:
 
-  test_sshd:
-    build:
-      context: .
-      dockerfile: recepten.Dockerfile
-    image: 127.0.0.1:5000/i_recepten:v1.3.90
-    command: bash /start.sh
-    networks:
-      my_net:
-        aliases:
-          - test_sshd
-    deploy:
-      mode: replicated
-      replicas: 2
-
-  nginx:
-    build:
-      context: .
-      dockerfile: nginx.Dockerfile
-    image: 127.0.0.1:5000/i_nginx:v1
+  recepten:
+    #build:
+    #  context: .
+    #  dockerfile: /home/ubuntu/projects/recepten/Dockerfile
+    image: 192.168.2.11:5000/recepten/i_recepten:v1.4.2
     ports:
-      - 80:80
-      - 443:443
-    networks:
-      my_net:
-        aliases:
-          - nginx
-    depends_on: [test_sshd]
+      - "8100:8000"
+    volumes:
+      - recepten_data:/mnt/share_fs/Recepten
+    command: bash /start.sh
     deploy:
       mode: replicated
       replicas: 1
 
-networks:
-  my_net:
+volumes:
+  recepten_data:
