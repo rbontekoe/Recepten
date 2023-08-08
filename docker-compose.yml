@@ -6,7 +6,7 @@ services:
     #build:
     #  context: .
     #  dockerfile: /home/ubuntu/projects/recepten/Dockerfile
-    image: 192.168.2.11:5000/recepten/i_recepten:v1.4.3
+    image: 192.168.2.11:5000/recepten/i_recepten:v1.4.4
     ports:
       - "8100:8000"
     volumes:
@@ -14,7 +14,7 @@ services:
     command: bash /start.sh
     deploy:
       mode: replicated
-      replicas: 1
+      replicas: 2
 
 volumes:
   recepten_data:
