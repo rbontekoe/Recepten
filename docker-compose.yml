@@ -14,7 +14,7 @@ services:
     command: bash /start.sh
     deploy:
       mode: replicated
-      replicas: 2
+      replicas: 3
 
 volumes:
   recepten_data:
