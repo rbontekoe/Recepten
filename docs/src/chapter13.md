@@ -23,6 +23,11 @@ Pages = ["chapter13.md"]
 | ![10 variaties op pesto recepten](https://www.francescakookt.nl/wp-content/uploads/Variaties-op-pesto-recepten_uitgelicht.jpeg) | **[10 variaties op pesto recepten](https://www.francescakookt.nl/10-variaties-op-pesto-recepten/)**``\\``“Pesto! Ik ben gek op pesto, vooral groene zelfgemaakte pesto. Maar ik zou wel wat meer variatie in mijn pesto recepten willen hebben.” |
 ||
 
+## Gochujang-mayo
+- 4 eetlepels mayonaise
+- 2 theelepels gochujang (toko)
+
+[Van Gully](https://www.culy.nl/recepten/kipburger-in-smashburger-stijl/)
 
 ## Zo houd je je basilicumplantje wél lang in leven
 Zie artikel Foodies: [Zo houd je je basilicumplantje wél lang in leven](https://www.foodiesmagazine.nl/inspiratie/keukenhacks/zou-houd-je-je-basilicumplantje-lang-in-leven/?utm_medium=Social&utm_source=Facebook#Echobox=1684132779)
