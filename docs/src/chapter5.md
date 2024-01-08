@@ -34,9 +34,7 @@ Pages = ["chapter5.md"]
 
 ## Gevulde sardines uit de oven
 
-Mijn beste Italiaanse recpten | Antonio Garluccio
-
-pagina 39.
+Mijn beste Italiaanse recpten | Antonio Garluccio, pagina 39.
 
 ## Gemarineerde zilveruitjes
 
