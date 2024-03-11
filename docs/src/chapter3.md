@@ -20,6 +20,8 @@ Pages = ["chapter3.md"]
 
 ## Tiramisù all panatonne in coppa
 
+Nu ook met een aanvulling in onze [database:](http://192.168.2.11/2024/03/11/tiramisu-all-panatonne-in-coppa/).
+
 Ingrediënten voor 6 - 200 g mascarpone - 70 g suiker - 3 eieren - een paar plakjes panatone (ook oudbakken) - marsala wijn doice
 
 Ik heb voor Wil en mij 2/3 van de hoeveelheden gebruikt: 130 g mascarpone - 50 g suiker - 2 eieren - een paar plakjes panatone (ook oudbakken) - marsala wijn doice.
