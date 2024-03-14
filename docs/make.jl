@@ -5,6 +5,7 @@ makedocs(
     format = Documenter.HTML(),
     pages = [
         "Recepten" => "index.md",
+        "0 - Wachtrij" => "chapter0.md",
         "1 - Asperges" => "chapter1.md",
         "2 - Bijgerechten" => "chapter2.md",
         "3 - Dessert" => "chapter3.md",
