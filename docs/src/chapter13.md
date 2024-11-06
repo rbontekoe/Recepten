@@ -35,7 +35,7 @@ Pages = ["chapter13.md"]
 
 Maak de dressing. Mix hiervoor in een blender de eidooiers, ansjovis en knoflook tot een pasta. Voeg het zout en peper en de sap en rasp van de citroen toe. Meng nog een paar seconden. Voeg langzaam, in een dun straaltje, de olijfolie toe en mix door tot de dressing dik en romig is. Voeg meer of minder olijfolie toe, afhankelijk van de gewenste consistentie.
 
-Zelf gebruik ik 1 extra groot ei, 100ml extra vergine olijfolie en 7 ansjovisjes. Ik voeg alleen pepern toe.
+Zelf gebruik ik voor 2 personen: 1 extra groot ei, 100ml extra vergine olijfolie en 7 ansjovisjes. Ik voeg alleen peper toe.
 
 Zie ook: [Caesar salade met kippendijen en spek](https://www.culy.nl/recepten/caesar-salade-met-kip-en-spek/)
 
