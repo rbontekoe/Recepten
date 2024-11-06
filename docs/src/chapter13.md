@@ -23,6 +23,22 @@ Pages = ["chapter13.md"]
 | ![10 variaties op pesto recepten](https://www.francescakookt.nl/wp-content/uploads/Variaties-op-pesto-recepten_uitgelicht.jpeg) | **[10 variaties op pesto recepten](https://www.francescakookt.nl/10-variaties-op-pesto-recepten/)**``\\``“Pesto! Ik ben gek op pesto, vooral groene zelfgemaakte pesto. Maar ik zou wel wat meer variatie in mijn pesto recepten willen hebben.” |
 ||
 
+## Mayonaise
+
+#### Ingredienten:
+- 2 eidooiers
+- Sap en rasp van 1 citroen
+- 120 ml extra vergine olijfolie (goede kwaliteit)
+- Blikje gezouten ansjovis (Princes)
+- Zout en peper (naar smaak)
+- 2 teentjes knoflook
+
+Maak de dressing. Mix hiervoor in een blender de eidooiers, ansjovis en knoflook tot een pasta. Voeg het zout en peper en de sap en rasp van de citroen toe. Meng nog een paar seconden. Voeg langzaam, in een dun straaltje, de olijfolie toe en mix door tot de dressing dik en romig is. Voeg meer of minder olijfolie toe, afhankelijk van de gewenste consistentie.
+
+Zelf gebruik ik 1 extra groot ei, 100ml extra vergine olijfolie en 7 ansjovisjes. Ik voeg alleen pepern toe.
+
+Zie ook: [Caesar salade met kippendijen en spek](https://www.culy.nl/recepten/caesar-salade-met-kip-en-spek/)
+
 ## Gochujang-mayo
 - 4 eetlepels mayonaise
 - 2 theelepels gochujang (toko)
