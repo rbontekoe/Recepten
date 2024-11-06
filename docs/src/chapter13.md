@@ -25,7 +25,7 @@ Pages = ["chapter13.md"]
 
 ## Mayonaise
 
-#### Ingredienten:
+#### Ingredienten (4 personen):
 - 2 eidooiers
 - Sap en rasp van 1 citroen
 - 120 ml extra vergine olijfolie (goede kwaliteit)
