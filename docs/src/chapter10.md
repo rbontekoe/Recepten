@@ -1,4 +1,4 @@
-# Pompoen
+# Pizza
 
 ```@contents
 Pages = ["chapter10.md"]
@@ -8,9 +8,11 @@ Pages = ["chapter10.md"]
 
 | Image| Link / Description |
 | :--- | :--- |
-| ![Gebakken gnocchi met pompoen, salie en chorizokruim](https://www.francescakookt.nl/wp-content/uploads/2022/05/gebakken-gnocchi-met-pompoen-salie-en-chorizokruim-2.jpg) | **[Gebakken gnocchi met pompoen, salie en chorizokruim](https://www.francescakookt.nl/gebakken-gnocchi-met-pompoen-salie-en-chorizokruim/)**``\\``Gnocchi is een van mijn favoriete basisingrediënten voor doordeweeks. Mijn kinderen zijn er ook dol op en je kunt er alle kanten mee op. Traditioneel kook je ze, maar je kunt gnocchi ook goed bakken. Vooral als je ze op hoog vuur bakt, krijgen ze een krokant laagje wat onweerstaanbaar lekker is. Vandaag deel ik met jullie mijn recept voor gebakken gnocchi met pompoen, salie en chorizokruim. Aan de kruim voegde ik ook nog wat hazelnoten toe wat een extra bite en heerlijke smaak geeft. |
-| ![Gestoofde pompoen met puntpaprika en kidneybonen](https://static.ah.nl/static/recepten/img_RAM_PRD156245_1024x748_JPG.jpg) | **[Gestoofde pompoen met puntpaprika en kidneybonen](https://www.ah.nl/allerhande/recept/R-R1195678/gestoofde-pompoen-met-puntpaprika-en-kidneybonen-advertorial)**``\\``Een dagje geen vlees? Probeer deze pompoenstoof met paprika en kidneybonen. Voedzaam en boordevol groente. Daar word je warm van. |
-| ![Pom­poen-pa­pri­kastoof](https://static.ah.nl/static/recepten/img_063662_1024x748_JPG.jpg) | **[Pom­poen-pa­pri­kastoof](https://www.ah.nl/allerhande/recept/R-R1185048/pompoen-paprikastoof)**``\\``De smaak van de herfst in een zalige pompoenstoof. |
-| ![Pompoen hutspot met speklapjes](https://img.culy.nl/images/c4CmnnQ42QvC4kDuke1ezHRlFCw=/860x303/smart/filters:quality(80):format(jpeg):background_color(fff)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2016%2F01%2Fpompoen-hutspot-met-speklapjes0002.jpg) | **[Pompoen hutspot met speklapjes](https://www.culy.nl/recepten/pompoen-hutspot-met-speklapjes/)**``\\``Een perfect snel maaltje voor doordeweeks: pompoen hutspot met speklapjes. Licht zoetig door de wortel en pompoen, romig door de mascarpone en lekker hartig door het spek. En een keertje zonder aardappels! |
-| ![Pom­poen­stoof met bo­nen en worst](https://static.ah.nl/static/recepten/img_RAM_PRD124466_445x297_JPG.jpg) | **[Pom­poen­stoof met bo­nen en worst](https://www.ah.nl/allerhande/recept/R-R1189378/pompoenstoof-met-bonen-en-worst)**``\\``Pom, pom, pom...poen! De ultieme herfstgroente in een stoof met witte bonen en chipolata.|
-|
+| ![23x verrukkelijke pizza’s](https://deliciousmagazine.nl/app/uploads/2019/01/snelle-pizza-met-pepperoni-en-burrata-e1547549721843-878x1024.jpg) | **[23x verrukkelijke pizza’s](https://deliciousmagazine.nl/lijstjes/pizza-recepten/?fbclid=IwAR2ttGirvSk7yx7FBOs1ZKbV6lWXkJzyBLonEYZdu0wiigYHjdUy64Bqevk)** ``\\``Je hebt ze in allerlei soorten en maten. Qua ingrediënten kun je het zo gek niet bedenken of iemand heeft ’t ooit op een pizza gedaan. Geen zorgen, we laten de ‘ananas op pizza’-kwestie even voor wat het is. Want we hebben belangrijkere dingen te doen: zelf de lekkerste pizza’s maken! Met deze pizza recepten hang je thuis de pizzaiolo uit. |
+| ![Pizza bianca met parmaham](https://img.culy.nl/eoyP76M58JieHK2-QuyqCxVVco8=/860x303/filters:quality(80):format(jpeg):background_color(fff)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2012%2F10%2FPizza-bianca-parmaham.jpg) | **[Pizza bianca met parmaham](https://www.culy.nl/recepten/pizza-bianca-met-parmaham/)**``\\``Dit heerlijke recept voor pizza bianca met parmaham komt van Culy-lezer Nina. Een pizza bianca is een pizza zonder tomatensaus. Het proberen waard, want deze pizza is in al zijn eenvoud overheerlijk! |
+||
+
+
+## Pizzadeeg maken
+
+[Pizzadeeg](https://www.youtube.com/watch?v=8Q_9h6VKm9c)
