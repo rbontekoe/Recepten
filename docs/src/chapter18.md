@@ -40,6 +40,41 @@ Pages = ["chapter18.md"]
 | ![Geroosterde bloemkool met pesto en kibbeling](https://www.francescakookt.nl/wp-content/uploads/geroosterde-bloemkool-met-boerenkoolpesto-en-kibbeling-1.jpg) | **[Geroosterde bloemkool met pesto en kibbeling](https://www.francescakookt.nl/geroosterde-bloemkool-met-pesto-en-kibbeling/)**``\\``Mijn visboer bakt de allerlekkerste kibbeling. Van verse kabeljauw, terwijl je wacht. Zo hoort het ook, want kibbeling wordt veel te vaak van resten vis gemaakt die niet meer te verkopen zijn.  |
 ||
 
+## Orecchiette met sardines: een smaakvolle combinatie
+
+**Ingrediënten (voor 2 personen)**
+- 250g orecchiette pasta
+- 1 blik sardines in olie
+- 1 ui, gesnipperd
+- 2 teentjes knoflook, fijngehakt
+- 1/2 rode peper, in ringetjes (optioneel, voor een beetje pit)
+- 50ml olijfolie
+- 50ml droge witte wijn
+- 250ml passata di pomodoro
+- Handvol verse basilicum, fijngesneden
+- Zout en peper naar smaak
+
+**Bereiding**
+Kook de pasta: Breng een grote pan met gezouten water aan de kook en kook de orecchiette volgens de aanwijzingen op de verpakking. Giet af en bewaar een kopje van het kookvocht.
+Bereid de saus: Verhit de olijfolie in een ruime pan. Fruit de ui en knoflook tot ze glazig zijn. Voeg de rode peper toe als je van pit houdt.
+Voeg de sardines toe: Laat de sardines uitlekken en verkruimel ze grof met een vork. Voeg ze toe aan de pan en bak kort mee.
+Blus af met wijn: Giet de witte wijn erbij en laat de alcohol even verdampen.
+Tomatensaus: Voeg de passata di pomodoro toe en breng aan de kook. Laat de saus ongeveer 10 minuten zachtjes pruttelen.
+Combineer alles: Voeg de gekookte orecchiette toe aan de saus en roer goed door. Breng op smaak met zout en peper.
+Serveer: Verdeel de pasta over de borden en garneer met de fijngesneden basilicum.
+
+Tips:
+- Extra smaak: Voeg een handvol verse kruiden zoals rozemarijn of tijm toe aan de saus.
+- Pittiger: Gebruik meer rode peper of voeg een snufje chilipoeder toe.
+- Romiger: Roer een scheutje room door de saus voor een romigere textuur.
+- Groenten: Voeg extra groenten toe zoals cherrytomaten, olijven of kappertjes.
+
+Variatie:
+- Sardinische stijl: Voeg rozijnen, pijnboompitten en saffraan toe aan de saus voor een authentieke smaak.
+- Vegetarisch: Vervang de sardines door tofu of kikkererwten.
+
+
+
 ## ♥ Gebakken kerriemosselen in slablad
 
 4 personen
