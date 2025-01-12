@@ -28,3 +28,31 @@ Pages = ["chapter6.md"]
 | ![Gnocchi caprese met burrata en kerstomaten](https://img.culy.nl/images/zHBQokYQ00ZaGzS87sDz1iAXmhs=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F06%2F2_gnocchi_caprese.jpg)                                              | **[Gnocchi caprese met burrata en kerstomaten](https://www.culy.nl/recepten/gnocchi-caprese-burrata/)**``\\``Deze gnocchi caprese wordt je nieuwe lievelingsrecept voor die dagen dat je uitgeblust bent (en dat hebben we allemaal weleens). Klaar in minder dan tien minuten en comfort food tot en met.  |
 | ![Ge­bak­ken gnoc­chi met tuin­bo­nen, cour­get­te en ham](https://static.ah.nl/static/recepten/img_RAM_PRD137105_445x297_JPG.jpg) | **[Ge­bak­ken gnoc­chi met tuin­bo­nen, cour­get­te en ham](https://www.ah.nl/allerhande/recept/R-R1188969/gebakken-gnocchi-met-courgette-tuinbonen-en-ham)**``\\``Door de gnocchi te bakken wordt-ie lekker krokant.  |
 ||
+
+## Klassieke Pasta con le sarde
+
+**Ingredienten** (voor 2 personen)
+
+- 25 gr Rozijnen geweekt in Marsala
+- halve ui
+- 1 teen knoflook, fijn gesneden
+- 25 gr pijnboompitten, geroosterd
+- 115 gr Cassarecce
+- blik Sardientjes, olie uit het blikje voor het bakken
+- half glas witte wijn met halve tl Safraan
+- halve el citroensap
+- Oregano
+
+**Bereiding**
+
+- Bak ui, knoflook en ansjovis in olijfolie.
+- Voeg sardines, rozijnen, pijnboompitten, venkel en saffraan toe.
+- Meng met gekookte casarecce.
+- Garneer met peterselie.
+- Casarecce met sardines
+- Bak knoflook en chilipeper in olijfolie.
+- Voeg sardines toe en bak kort mee.
+- Meng met gekookte casarecce, citroenrasp en -sap.
+- Bestrooi met peterselie.
+
+Met citroen en chili: Voor een frissere variant kun je casarecce combineren met sardines, citroenrasp en -sap, chilipeper, knoflook en peterselie. Dit geeft een levendige en pittige smaak.
