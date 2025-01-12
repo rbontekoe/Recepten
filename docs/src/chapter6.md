@@ -39,7 +39,7 @@ Pages = ["chapter6.md"]
 - 25 gr pijnboompitten, geroosterd
 - 115 gr Cassarecce
 - blik Sardientjes, olie uit het blikje voor het bakken
-- half glas witte wijn met halve tl Safraan
+- half glas witte wijn met halve tl safraan
 - halve el citroensap
 - Oregano
 
