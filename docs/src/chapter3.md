@@ -18,6 +18,31 @@ Pages = ["chapter3.md"]
 | ![Meringues met salted caramel](https://img.culy.nl/images/hisX9ou0CswK8_xzqL6kkc5vuJ4=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F10%2F6_meringues_met_salted_caramel.jpg) | **[Meringues met salted caramel](https://www.culy.nl/recepten/culy-homemade-meringues-met-salted-caramel/)**``\\``Toen we laatst ineens vijf eiwitten over hadden (met de dooiers hadden we gepekelde eidooiers gemaakt voor bij de pasta), besloten we daar deze meringues met salted caramel mee te bakken. Immers: weggooien is zonde. Ze bleken zó lekker, dat we niet kunnen wachten om ze nog een keer te maken. |
 ||
 
+## AI gerecht
+
+Er zijn talloze manieren om een lekker groentegerecht te maken met rode paprika, tomaten en ui. Hieronder geef ik je een paar opties, van eenvoudig tot iets uitgebreider, zodat je kunt kiezen wat je het lekkerst lijkt of wat het beste past bij wat je nog meer in huis hebt:
+
+1. Eenvoudige gebakken groenten:
+
+Dit is een snelle en makkelijke manier om de groenten te bereiden.
+
+Ingrediënten:
+
+- 1 rode paprika, in reepjes
+- 2 tomaten, in blokjes
+- 1 ui, gesnipperd
+- Olijfolie
+- Zout en peper
+- Eventueel: knoflook, gedroogde kruiden (bijv. oregano, tijm, rozemarijn)
+
+**Bereiding**
+
+1. Verhit wat olijfolie in een pan.
+2. Fruit de ui glazig.
+3. Voeg de paprika toe en bak deze een paar minuten mee tot hij iets zachter is.
+4. Voeg de tomaten toe en bak nog een paar minuten mee tot ze warm zijn.
+5. Breng op smaak met zout, peper en eventueel knoflook en kruiden.
+
 ## Tiramisù all panatonne in coppa
 
 Nu ook met een aanvulling in onze [database:](http://192.168.2.11/2024/03/11/tiramisu-all-panatonne-in-coppa/).
