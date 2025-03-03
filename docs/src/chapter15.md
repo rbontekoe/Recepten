@@ -8,6 +8,7 @@ Pages = ["chapter14.md"]
 
 | Image | Link / Description |
 | :--- | :--- |
+|![Spruitjessoep met spekjes](https://fgdjrynm.filerobot.com/acc/recipes/7f85cda405ea604aa181ce96622cd032eb3eabdb122b1d43ca130fba45489354.jpg) | **[Spruitjessoep met spekjes](https://www.mijnspar.be/recepten/spruitjessoep-met-spekjes)** ``\\``Maak de spruitjes schoon en snij ze doormidden. Schil de aardappel en snij in blokjes. |
 |![Tomaat-pastinaaksoep](https://static.ah.nl/static/recepten/img_RAM_PRD174938_1224x900_JPG.jpg) | **[Tomaat-pastinaaksoep](https://www.ah.nl/allerhande/recept/R-R1198231/tomaat-pastinaaksoep)** ``\\``Op koude of natte dagen gaat er niks boven een kom dampende soep! |
 |![Oma's erwtensoep](https://static.ah.nl/static/recepten/img_RAM_PRD130112_440x324_JPG.jpg) | **[Oma's erwtensoep](https://www.ah.nl/allerhande/recept/R-R1198932/oma-s-erwtensoep)** ``\\``Er gaat niets boven een kom van oma's erwtensoep. Met dit recept maak je 'm helemaal zelf met groente en de onmisbare rookworst. |
 | ![Courgette-preisoep](https://www.keukenliefde.nl/wp-content/uploads/2024/10/Courgette-preisoep-2.jpg) | **[Courgette-preisoep](https://www.keukenliefde.nl/courgette-preisoep/)** ``\\`` Een heerlijke courgette-preisoep geserveerd met knapperige broodcroutons, verse dille en een vleugje room. Deze voedzame soep staat in 20 minuten op tafel!|
