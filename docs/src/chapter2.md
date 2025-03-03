@@ -43,6 +43,25 @@ Pages = ["chapter2.md"]
 | ![Knolselderij friet](https://img.culy.nl/images/JjbmzLYdMXBNSO1UFRQC7fFKGHc=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2013%2F01%2Feva4.jpg) | **[Knolselderij friet](https://www.culy.nl/recepten/knolselderij-friet/)**``\\``Dit heerlijke recept voor knolselderij friet kregen we doorgestuurd van Culy-lezeres Eva van de leuke blog Wertheimer.nl. Een echte aanrader. Eet ze als snack of als fijn bijgerecht! |
 || 
 
+## Pastinaak uit de oven met honing mosterd dressing
+
+**Ingrediënten (4 personen)**
+- 500 gram pastinaak
+- olijfolie
+- zout en peper
+- 1 eetlepel vloeibare honing
+- 1 eetlepel mosterd
+
+**Bereiding**
+
+Door pastinaak krokant te bakken in de oven komt de mooie zoete anijsachtige smaak nog beter tot zijn recht. Na het bakken bestrijk je hem met de dressing en dan heb je heerlijke stukken pastinaak voor op een salade of als bijgerecht bij een lekker stuk gebraden vlees.
+
+Verwarm de oven voor op 200 graden. Schil de pastinaak en snijd ze in stukken van ongeveer gelijke grootte en dikte. Zo zorg je dat alle stukken tegelijk mooi bruin gebakken zijn. Bekleed een bakblik met bakpapier. Leg de stukken pastinaak erop en giet wat druppels olijfolie op ieder stuk pastinaak. Bestrooi met peper en zout. Schuif het bakblik nu 25-30 minuten in de oven. Hou het goed in de gaten dat het niet aanbrand.
+
+Meng olijfolie, honing en mosterd tot een mooie dressing. Haal het bakblik uit de oven en bestrijk de stukken pastinaak met dit mengsel en laat het nog even bakken in de oven. Na maximaal 10 minuten heb je nu heerlijk krokant gebakken pastinaak. Eet smakelijk!
+
+[Link](https://www.pastinaak.nl/recepten/pastinaak-uit-de-oven-met-honing-mosterd-dressing/)
+
 ## La Peperonata
 
 Paprika's 4 personen
