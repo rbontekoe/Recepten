@@ -8,7 +8,6 @@ Pages = ["chapter6.md"]
 
 | Image| Link / Description |
 | :--- | :--- |
-|![Gnocchi met aubergine al formaggio](https://static.ah.nl/static/recepten/img_111530_612x450_JPG.jpg)| **[Gnocchi met aubergine al formaggio](https://www.ah.nl/allerhande/recept/R-R1186931/gnocchi-met-aubergine-al-formaggio)** ``\\``Bekend en toch weer anders. Aubergine met als twist... geraspte kaas! |
 |![Gnocchi met gerookte zalm en spinazie](https://jaimyskitchen.nl/img/cache/media_42622_heighten_374-upscale_85-gnocchi-met-gerookte-zalm-en-spinazie-68126-header.webp)| **[Gnocchi met gerookte zalm en spinazie](https://jaimyskitchen.nl/recepten/gnocchi-met-gerookte-zalm-en-spinazie)** ``\\``Een lekker hoofdgerecht met gnocchi en gerookte zalm. Dit wordt met een roomsausje, courgette en spinazie gemaakt. Een snel en ontzettend smaakvol recept! |
 | ![Traybake met gnocchi, paddenstoelen, tijm en gorgonzola](https://img.culy.nl/images/RF_27XevlZYOXWQsuhljMEBvKDU=/750x422/filters:quality(80):format(jpeg):background_color(fff)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2023%2F08%2F1_Traybake-paddenstoelen.jpg) | **[♥ Traybake met gnocchi, paddenstoelen, tijm en gorgonzola](https://www.culy.nl/recepten/traybake-paddenstoelen-gnocchi/)**``\\``Maken we het onszelf weer eens lekker makkelijk. Want dat de oven het grootste deel van het werk doet, betekent dat jij weer tijd overhoudt voor andere klusjes. En het eindresultaat? Dat zal binnen no time op zijn. |
 | ![Pasta pesto met broccoli en knoflookkruim](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__rMyGr4LyrFrVbGg84YMiEtVB22ptv_fhjWHFZo6mRJLzTWw) | **[Pasta pesto met broccoli en knoflookkruim](https://www.ah.nl/allerhande/recept/R-R1191348/pasta-pesto-met-broccoli-en-knoflookkruim)**``\\``Breid je pasta pesto eens uit met extra groenten! In dit recept gaan we voor broccoli en cherrytomaatjes. Maak 'm af met een krokantje van zelfgemaakt knoflookkruim. |
@@ -30,6 +29,32 @@ Pages = ["chapter6.md"]
 | ![Gnocchi caprese met burrata en kerstomaten](https://img.culy.nl/images/zHBQokYQ00ZaGzS87sDz1iAXmhs=/768x271/smart/filters:format(jpeg):quality(80)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2017%2F06%2F2_gnocchi_caprese.jpg)                                              | **[Gnocchi caprese met burrata en kerstomaten](https://www.culy.nl/recepten/gnocchi-caprese-burrata/)**``\\``Deze gnocchi caprese wordt je nieuwe lievelingsrecept voor die dagen dat je uitgeblust bent (en dat hebben we allemaal weleens). Klaar in minder dan tien minuten en comfort food tot en met.  |
 | ![Ge­bak­ken gnoc­chi met tuin­bo­nen, cour­get­te en ham](https://static.ah.nl/static/recepten/img_RAM_PRD137105_445x297_JPG.jpg) | **[Ge­bak­ken gnoc­chi met tuin­bo­nen, cour­get­te en ham](https://www.ah.nl/allerhande/recept/R-R1188969/gebakken-gnocchi-met-courgette-tuinbonen-en-ham)**``\\``Door de gnocchi te bakken wordt-ie lekker krokant.  |
 ||
+
+## Gnocchi met aubergine-tomatensaus
+
+### Ingredienten (4 perwsonen)**
+
+- 2 rode uien.
+- 2 tenen knoflook
+- 3 el olijfolie  extra vierge
+- 2 aubergines
+- 2 el orgeano
+- 800 gr tomatenblokjes uit blik
+- 1/2 el kristalsuiker
+- 317 g mozzarella
+- 500 g gnocchi
+- 70 g parmangiano reggiano
+- 15 g verse basillicumblaadjes
+
+### Bereiding
+
+1. Snijd de rode ui in halve ringen en snijd de knoflook fijn. Verhit de olie in een hapjes pan en bak de ui en knoflook 3 min. op laag vuur. Snijd ondertussen de aubergines in blokjes van 1 cm. Voeg de aubergine en gedroogde oregano to en bak 10 moin. op middelhoog vuur.
+
+2. Voeg de tomatenblokjes en suiker toe. Breng aan de kkok en laat ca. 15 min. op middelhoog vuur stoven., roer af en toe.
+
+3. Snijd de mozzarrella in blokjes en schep de laatste 5 min. erdoor. Breng op smaak met peper en eventueel zout.
+
+4. Kook ondertussen de gnocchi volgens de aanwijzingen op de verpakking en giet af. Rasp de parmazaanse kaas en scheur de basilicumblaadjes grof. Verdeel de parmazzaanse kas en scheur de basilicumblaadjes grof. Verdeel de parmazaanse kaaas en basiilicim voor het serveren over de aubergine stoof voor het serveren  over de auberginestoof. Serveeer met gnocchi.
 
 ## Klassieke Pasta con le sarde
 
