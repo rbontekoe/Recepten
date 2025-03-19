@@ -34,7 +34,7 @@ Pages = ["chapter6.md"]
 
 ### Ingredienten (4 personen)
 
-- 2 rode uien.
+- 2 rode uien
 - 2 tenen knoflook
 - 3 el olijfolie  extra vierge
 - 2 aubergines
@@ -50,11 +50,11 @@ Pages = ["chapter6.md"]
 
 1. Snijd de rode ui in halve ringen en snijd de knoflook fijn. Verhit de olie in een hapjes pan en bak de ui en knoflook 3 min. op laag vuur. Snijd ondertussen de aubergines in blokjes van 1 cm. Voeg de aubergine en gedroogde oregano to en bak 10 moin. op middelhoog vuur.
 
-2. Voeg de tomatenblokjes en suiker toe. Breng aan de kkok en laat ca. 15 min. op middelhoog vuur stoven., roer af en toe.
+2. Voeg de tomatenblokjes en suiker toe. Breng aan de kkok en laat ca. 15 min. op middelhoog vuur stoven. Roer af en toe.
 
-3. Snijd de mozzarrella in blokjes en schep de laatste 5 min. erdoor. Breng op smaak met peper en eventueel zout.
+3. Snijd de mozzarrella in blokjes en schep de laatste 5 min erdoor. Breng op smaak met peper en eventueel zout.
 
-4. Kook ondertussen de gnocchi volgens de aanwijzingen op de verpakking en giet af. Rasp de parmazaanse kaas en scheur de basilicumblaadjes grof. Verdeel de parmazzaanse kas en scheur de basilicumblaadjes grof. Verdeel de parmazaanse kaaas en basiilicim voor het serveren over de aubergine stoof voor het serveren  over de auberginestoof. Serveeer met gnocchi.
+4. Kook ondertussen de gnocchi volgens de aanwijzingen op de verpakking en giet af. Rasp de parmazaanse kaas en scheur de basilicumblaadjes grof. Verdeel de parmazzaanse kas en de basilicumblaadjes. Verdeel de parmazaanse kaaas en basilicum voor het serveren voor het serveren over de auberginestoof. Serveeer met gnocchi.
 
 ## Klassieke Pasta con le sarde
 
