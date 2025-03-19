@@ -50,7 +50,7 @@ Pages = ["chapter6.md"]
 
 1. Snijd de rode ui in halve ringen en snijd de knoflook fijn. Verhit de olie in een hapjes pan en bak de ui en knoflook 3 min. op laag vuur. Snijd ondertussen de aubergines in blokjes van 1 cm. Voeg de aubergine en gedroogde oregano to en bak 10 moin. op middelhoog vuur.
 
-2. Voeg de tomatenblokjes en suiker toe. Breng aan de kkok en laat ca. 15 min. op middelhoog vuur stoven. Roer af en toe.
+2. Voeg de tomatenblokjes en suiker toe. Breng aan de kook en laat ca. 15 min op middelhoog vuur stoven. Roer af en toe.
 
 3. Snijd de mozzarrella in blokjes en schep de laatste 5 min erdoor. Breng op smaak met peper en eventueel zout.
 
