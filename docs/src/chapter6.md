@@ -39,7 +39,7 @@ Pages = ["chapter6.md"]
 - 3 el olijfolie  extra vierge
 - 2 aubergines
 - 2 el orgeano
-- 800 gr tomatenblokjes uit blik
+- 800 g tomatenblokjes uit blik
 - 1/2 el kristalsuiker
 - 317 g mozzarella
 - 500 g gnocchi
