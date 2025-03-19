@@ -32,7 +32,7 @@ Pages = ["chapter6.md"]
 
 ## Gnocchi met aubergine-tomatensaus
 
-### Ingredienten (4 perwsonen)**
+### Ingredienten (4 personen)**
 
 - 2 rode uien.
 - 2 tenen knoflook
