@@ -68,10 +68,10 @@ Een recept voor 2 personen van Wil Faber.
 
 - 250 gram gehakt
 - 1 ei
-- ½ tl koriander
-- ½ tl komijnzaad
-- ½ tl piment
-- ½ tl kardemom
+- 1 tl koriander
+- 1 tl komijnzaad
+- 1 tl piment
+- 1 tl kardemom
 - 1 tl srirachasaus
 - 2 el tomatenketchup
 - 2 el ketjap manis
@@ -84,7 +84,7 @@ Een recept voor 2 personen van Wil Faber.
 ##### Bereiding:
 
 1. Neem een kom en meng hierin het gehakt, ei, kruiden, srirachasaus, tomatenketchup en ketjap. Roer goed door elkaar.
-2. Voeg 6 volle eetlepels paneermeel toe aan het mengsel en meng alles tot een stevige massa. Vorm hieruit vier gehaktballen. Druk ze stevig aan.
+2. Voeg 7 volle eetlepels paneermeel toe aan het mengsel en meng alles tot een stevige massa. Vorm hieruit vier gehaktballen. Druk ze stevig aan.
 3. Strooi het meel op een bord en rol de gehaktballen erdoorheen zodat ze gelijkmatig bedekt zijn.
 4. Verwarm de olie in een pan en bak de gehaktballen tot ze een stevige donkerbruine korst hebben gekregen.
 5. Voeg het water en het bouillonblokje toe aan de pan en zet het vuur laag.
